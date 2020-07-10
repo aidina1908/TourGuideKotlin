@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- cattegories-->
+    <string name="club">Club</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="casino">Casino</string>
+    <string name="hotel">Hotel</string>
+    <string name="overview">Overview</string>
+
+    <string name="intent_extra_item_title">ITEM_TITLE</string>
+
+    <!-- clubs names-->
+    <string name="drais_title">Drias</string>
+    <string name="hakkasan_title">Hakkasan</string>
+    <string name="omnia_title">Omnia</string>
+    <string name="xs_title">XS</string>
+
+    <!-- clubs addresses-->
+    <string name="drais_location">Drais Beachclub and Nightclub</string>
+    <string name="hakkasan_location">Hakkasan Nightclub</string>
+    <string name="omnia_location">OMNIA Nightclub</string>
+    <string name="xs_location">XS Nightclub</string>
+
+    <!-- clubs descriptions-->
+    <string name="drais_overview">Drai’s Nightclub towers 11 stories above the world-famous Las Vegas Strip. It redefines the Vegas entertainment experience. The crowning jewel of The Cromwell Las Vegas Hotel and Casino, Drais Las Vegas provides an unrivaled view encompassing the entire Strip and beyond.</string>
+    <string name="hakkasan_overview">Home to world-famous DJs Calvin Harris, Tiesto and Steve Aoki, Hakkasan is one of the most exciting and successful nightlife/restaurant designs ever conceived.
+The nightclub at Hakkasan Las Vegas is the bold evolution of the prestigious global restaurant brand into an all-encompassing nightlife experience. The nightclub offers a diverse nightlife experience with a variety of areas and atmospheres, cutting-edge technology and inspired design immersed in three levels of refined decadence.</string>
+    <string name="omnia_overview">OMNIA Nightclub Las Vegas, voted “Best New Nightclub” In Vegas Magazine Awards 2015, hired Invision Studio to shoot an Interactive 360 Virtual Tour of the Club along with HDR Photography. OMNIA is one of the newest, largest, and most popular clubs in the City of Sin right now. Located in the heart of the strip at the incredible Caesars Palace Hotel and Casino, it sits in the spot that used to be occupied by PURE Nightclub.</string>
+    <string name="xs_overview">XS Las Vegas, has been dubbed the “number one nightclub in the United States” by Nightclub and Bar’s Top 100 for an impressive five years in a row. XS Nightclub is a beautifully-decorated mega-club that can throw one hell of a good party.</string>
+
+    <!-- clubs review -->
+    <string name="drais_review">5</string>
+    <string name="hakkasan_review">5</string>
+    <string name="omnia_review">5</string>
+    <string name="xs_review">5</string>
+
+    <!-- casino's names -->
+    <string name="aria_title">Aria</string>
+    <string name="cosmopolitan_title">Cosmopolitan</string>
+    <string name="encor_title">Encor</string>
+    <string name="mandalay_bay_title">Mandalay Bay</string>
+
+    <!-- casino's addresses -->
+    <string name="aria_location">Aria Resort and Casino</string>
+    <string name="cosmopolitan_location">The Cosmopolitan Las Vegas</string>
+    <string name="encor_location">Encore Las Vegas</string>
+    <string name="mandalay_bay_location">Mandalay Bay</string>
+
+    <!-- casino's descriptions -->
+    <string name="aria_overview">Aria Resort and Casino is a luxury resort and casino, part of the CityCenter complex on the Las Vegas Strip in Paradise, Nevada. ... Among the most notable aspects of Aria is its incorporation of technology in the exterior and interior design of the hotel, specifically for the reduction of energy consumption.</string>
+    <string name="cosmopolitan_overview">The Cosmopolitan of Las Vegas (commonly referred to simply as The Cosmopolitan or The Cosmo) is a luxury resort casino and hotel on the Las Vegas Strip in Paradise, Nevada.</string>
+    <string name="encor_overview">Encore Las Vegas is a luxury resort, casino and hotel located on the Las Vegas Strip in Paradise, Nevada. The resort is connected to its sister resort, Wynn Las Vegas; both are owned by Wynn Resorts and located on the site of the old Desert Inn Resort.</string>
+    <string name="mandalay_bay_overview">Mandalay Bay is a 43-story luxury resort and casino on the Las Vegas Strip in Paradise, Nevada. It is owned and operated by MGM Resorts International. One of the properties towers operates as the Delano. The Four Seasons Hotel is independently operated within the Mandalay Bay tower.</string>
+
+    <!-- casino's review -->
+    <string name="aria_review">5</string>
+    <string name="cosmopolitan_review">5</string>
+    <string name="encor_review">5</string>
+    <string name="mandalay_bay_review">4</string>
+
+    <!-- restaurants names -->
+    <string name="burger_king_title">Burger King</string>
+    <string name="gordon_ramsey_title">Gordon Ramsey</string>
+    <string name="mon_ami_title">Mon Ami</string>
+    <string name="minus_five_title">Minus Five</string>
+
+    <!-- restaurants addresses -->
+    <string name="burger_king_location">Burger King, Tropicana Ave, Las Vegas</string>
+    <string name="gordon_ramsey_location">Gordon Ramsay Steak, Las Vegas</string>
+    <string name="mon_ami_location">Mon Ami Gabi, Las Vegas</string>
+    <string name="minus_five_location">minus5 ICEBAR</string>
+
+    <!-- restaurants's descriptions -->
+    <string name="burger_king_overview">Every day, more than 11 million guests visit BURGER KING restaurants around the world. And they do so because our restaurants are known for serving high-quality, great-tasting, and affordable food. Founded in 1954, BURGER KING is the second largest fast food hamburger chain in the world. The original HOME OF THE WHOPPER, our commitment to premium ingredients, signature recipes, and family-friendly dining experiences is what has defined our brand for more than 50 successful years.</string>
+    <string name="gordon_ramsey_overview">Gordon Ramsay Restaurants comprises of the restaurant business of acclaimed chef, restaurateur, TV personality and author Gordon Ramsay. It employs more than 700 people in London, where it has a collection of 15 restaurants. Gordon Ramsay Restaurants has a total of 35 restaurants globally and 7 Michelin stars, with international restaurants from Europe to the US and the Middle East.</string>
+    <string name="mon_ami_overview">Located on Las Vegas Boulevard inside the Paris Hotel Casino, guests can enjoy the airy interior surrounded by floor to ceiling windows that open out onto the scenic views of dancing Bellagio Fountains.</string>
+    <string name="minus_five_overview">minus5° Ice Experience, where everything is made of ice! Come chill with over 90 tons of ice while exploring a winter wonderland filled with amazing, interactive ice sculptures. This unique, one-of-a-kind ice experience is sure to create some fun and amazing memories for you and your friends.</string>
+
+    <!-- restaurants review -->
+    <string name="burger_king_review">5</string>
+    <string name="gordon_ramsey_review">5</string>
+    <string name="mon_ami_review">5</string>
+    <string name="minus_five_review">5</string>
+
+    <!-- restaurants opening hours -->
+    <string name="burger_king_hours">6:00 AM - 12:00 AM</string>
+    <string name="gordon_ramsey_hours">4:30 PM - 10:15 PM</string>
+    <string name="mon_ami_hours">07:00 AM - 11:00 PM</string>
+    <string name="minus_five_hours">11:00 AM - 01:00 AM</string>
+
+    <!-- restaurants phone number -->
+    <string name="burger_king_phone">+1 702 798 4364</string>
+    <string name="gordon_ramsey_phone">+1 702 946 4663</string>
+    <string name="mon_ami_phone">+1 702 944 4224</string>
+    <string name="minus_five_phone">+1 702 489 3545</string>
+
+    <!-- hotels website -->
+    <string name="burgerking_website">https://www.bk.com/store-locator/store/restaurant_5181</string>
+    <string name="gordon_website">https://www.gordonramsayrestaurants.com/steak/</string>
+    <string name="monami_website">https://www.monamigabi.com/las-vegas/</string>
+    <string name="minusfive_website">https://www.minus5experience.com/</string>
+
+
+    <!-- hotels names -->
+    <string name="bellagio_title">Bellagio</string>
+    <string name="luxor_title">Luxor</string>
+    <string name="palazzo_title">Palazzo</string>
+    <string name="wynn_title">Wynn</string>
+
+    <!-- hotels addresses -->
+    <string name="bellagio_location">Bellagio, Las Vegas</string>
+    <string name="luxor_location">Luxor hotel and casino</string>
+    <string name="palazzo_location">The Palazzo, Las Vegas</string>
+    <string name="wynn_location">Wynn Las Vegas</string>
+
+    <!-- hotelss review -->
+    <string name="bellagio_review">5</string>
+    <string name="luxor_review">5</string>
+    <string name="palazzo_review">5</string>
+    <string name="wynn_review">5</string>
+
+    <!-- hotels phone number -->
+    <string name="bellagio_phone">+1 888 987 6667</string>
+    <string name="luxor_phone">+1 702 262 4000</string>
+    <string name="palazzo_phone">+1 702 607 7777</string>
+    <string name="wynn_phone">+1 702 770 7000</string>
+
+    <!-- hotels website -->
+    <string name="bellagio_website">https://bellagio.mgmresorts.com/</string>
+    <string name="luxor_website">https://luxor.mgmresorts.com/</string>
+    <string name="palazzo_website">https://www.venetian.com/</string>
+    <string name="wynn_website">https://www.wynnlasvegas.com/</string>
+
+</resources>

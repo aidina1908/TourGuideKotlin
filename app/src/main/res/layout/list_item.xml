@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:padding="0dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/image"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="16dp"
+        android:text="@string/drais_title"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_toRightOf="@+id/image"
+        android:gravity="top"
+        android:text="@string/drais_location"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/review_text"
+        android:layout_below="@id/location"
+        android:layout_toRightOf="@+id/image"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textSize="14sp"
+        android:text="Review: " />
+
+
+    <ImageView
+        android:id="@+id/review_star1"
+        android:layout_width="@dimen/star_size"
+        android:layout_height="@dimen/star_size"
+        android:tint="@color/reviewStar"
+        android:layout_toRightOf="@id/review_text"
+        android:layout_below="@id/location"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        app:srcCompat="@drawable/reviewstar1" />
+
+    <ImageView
+        android:id="@+id/review_star2"
+        android:layout_width="@dimen/star_size"
+        android:layout_height="@dimen/star_size"
+        android:tint="@color/reviewStar"
+        android:layout_toRightOf="@id/review_star1"
+        android:layout_below="@id/location"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        app:srcCompat="@drawable/reviewstar2" />
+
+    <ImageView
+        android:id="@+id/review_star3"
+        android:layout_width="@dimen/star_size"
+        android:layout_height="@dimen/star_size"
+        android:tint="@color/reviewStar"
+        android:layout_toRightOf="@id/review_star2"
+        android:layout_below="@id/location"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        app:srcCompat="@drawable/reviewstar3" />
+
+    <ImageView
+        android:id="@+id/review_star4"
+        android:layout_width="@dimen/star_size"
+        android:layout_height="@dimen/star_size"
+        android:layout_toRightOf="@id/review_star3"
+        android:layout_below="@id/location"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        android:tint="@color/reviewStar"
+        app:srcCompat="@drawable/reviewstar4" />
+
+    <ImageView
+        android:id="@+id/review_star5"
+        android:layout_width="@dimen/star_size"
+        android:layout_height="@dimen/star_size"
+        android:layout_toRightOf="@id/review_star4"
+        android:layout_below="@id/location"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        android:tint="@color/reviewStar"
+        app:srcCompat="@drawable/reviewstar4" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="13dp"
+            android:layout_below="@+id/image"
+            android:background="@android:color/darker_gray" />
+
+
+</RelativeLayout>
